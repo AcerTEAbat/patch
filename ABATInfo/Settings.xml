@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FamilyList>
+  <Intel>
+    <CPU>
+      <name>Kaby Lake-R</name>
+      <idlist>8250u,8550u,8350u,8650u,8130u,3867u,4417u</idlist>
+    </CPU>
+    <CPU>
+      <name>Whiskey Lake</name>
+      <idlist>8565u,8265u,8145u,8665u,8365u,5405u,4305u,4205u</idlist>
+    </CPU>
+    <CPU>
+      <name>Coffee Lake</name>
+      <idlist>8950hk,8850h,8750h,8559u,8557u,8257u,8569u,8279u,8108u,8400h,8300h,8269u,8259u,8109u,8100h,7100h,2186m,2176m</idlist>
+    </CPU>
+    <CPU>
+      <name>Coffee Lake-HR</name>
+      <idlist>9980hk,9880h,9850h,9750h,9400h,9300h,2286m,2276m</idlist>
+    </CPU>
+    <CPU>
+      <name>Amber Lake</name>
+      <idlist>8500y,8210y,8200y,8100y,10510y,10410y,10310y,10210y,10110y,4425y,3965y</idlist>
+    </CPU>
+    <CPU>
+      <name>Kaby Lake</name>
+      <idlist>8809g,8709g,8706g,8705g,8305g,8130u,7920hq,7820hq,7820hk,7700hq,7700,7600u,7660u,7567u,7500u,7y75,7600k,7600,7560u,7500,7440hq,7400,7360u,7300u,7300hq,7287u,7267u,7260u,7200u,7y54,7y57,7350k,7320,7300,7130u,7100,7100u,7167u,7100h,7020u,7y32,7y30,g4620,g4600,g4560,g4415,4415u,4415y,4425y,4410y,g3950,g3930,3965u,3965y,3865u</idlist>
+    </CPU>
+    <CPU>
+      <name>Gemini Lake</name>
+      <idlist>j5005,n5000,j4105,j4005,n4100,n4000</idlist>
+    </CPU>
+    <CPU>
+      <name>Gemini Lake-R</name>
+      <idlist>j5040,j4125,j4025,n5030,n4120,n4020</idlist>
+    </CPU>
+    <CPU>
+      <name>Jasper Lake</name>
+      <idlist>n6005,n6000,n5105,n5100,n4505,n4500</idlist>
+    </CPU>
+    <CPU>
+      <name>Comet Lake</name>
+      <idlist>10980hk,10980h,10900kf,10900f,10900k,10900t,10900,10885h,10885m,10880h,10875h,10870h,10850h,10850k,10810u,10750h,10710u,10700t,10700kf,10700f,10700k,10700,10610u,10600k,10600kf,10600t,10600k,10600,10510u,10505,10500,10500h,10500t,10400h,10400f,10400t,10400,10325,10320,10310u,10300t,10305t,10305,10300,10300h,10210u,10200h,10105f,10105t,10105,10100f,10100t,10100,10110u,6405u,5205u,5305u,g6605,g6600,g6505t,g6505,g6500t,g6500,g6405t,g6405,g6400t,g6400,g5925,g5905t,g5905</idlist>
+    </CPU>
+    <CPU>
+      <name>Ice Lake</name>
+      <idlist>1065g7,1060g7,1035g7,1030g7,1035g4,1030g4,1000g4,1000g1,1035g1,1005g1,10510y,10310y,10210y,10110y,6805</idlist>
+    </CPU>
+    <CPU>
+      <name>Cascade Lake</name>
+      <idlist>10980xe,10940x,10920x,10900x,8280,8276,8270,8268,8260,8256,6258r,6256,6254,8253,6252,6250,6248r,6248,6246r,6246,6244,6242,6242r,6240r,6240,6238r,6238,6234,6230r,6230,6226r,6226,5222,5220r,5220,5218r,5218,5217,5215,4216,4215r,4215,4214r,4214,4210r,4208,3275,3265,3245,3235,3225,3223,3206r,3204,2295,2275,2265,2255,2245,2235,2225,2223</idlist>
+    </CPU>
+    <CPU>
+      <name>Tiger Lake</name>
+      <idlist>11980hk,11955m,11950h,11900h,11855m,11850h,11800h,11600h,11500h,11400h,11390h,11375h,11370h,11320h,11300h,11260h,1195g7,1185g7,1180g7,1165g7,1160g7,1155g7,1145g7,1140g7,1135g7,1130g7,1125g4,1120g4,1115g4,1110g4,7507,7505,6305,6205,1180g7,1160g7,1140g7,1130g7,1110g4</idlist>
+    </CPU>
+    <CPU>
+      <name>Rocket Lake</name>
+      <idlist>11900kf,11900f,11900k,11900t,11900,11700kf,11700f,11700k,11700t,11700,11600kf,11600k,11600t,11600,11500t,11500,11400f,11400t,11400</idlist>
+    </CPU>
+    <CPU>
+      <name>Alder Lake</name>
+      <idlist>12950hx,12900kf,12900f,12900k,12900t,12900h,12900hk,12900,12850hx,12800h,12700kf,12700f,12700k,12700t,12700h,12700,12650h,12600hx,12600kf,12600k,12600t,12600h,12600,12500t,12500h,12500,12450h,12400f,12400t,12400,12300t,12300,12100f,12100t,12100,g7400t,g7400,g6900t,g6900,1280p,1270p,1265u,1260p,1260u,1255u,1250p,1250u,1245u,1240p,1240u,1235u,1230u,1220p,1215u,1210u,8505,8500,7305,7300,n305,n300,n200,n100</idlist>
+    </CPU>
+    <CPU>
+      <name>Raptor Lake</name>
+      <idlist>14900,14700,14650,14500,14450,14100,13980,13950,13980hx,13950hx,13905h,13900hx,13900hk,13900h,13900,13850hx,13800h,13800,13705h,13700hx,13700h,13700,13650hx,13620h,13600hx,13600h,13600,13500hx,13505h,13500h,13500,13450hx,13420h,13400,13100,1370p,1365u,1360p,1355u,1350p,1345u,1340p,1335u,1334u,1315u,1305u,164u,150u,134u,120u,u300,270h,250h,240h,220h,210h, 250u, 220u, 150u, 120u, 100u, 300 , 300t</idlist>
+    </CPU>
+    <CPU>
+      <name>Meteor Lake</name>
+      <idlist>185h,165h,165u,164u,155u,155h,135h,135u,134u,125h,125u,115u,105u</idlist>
+    </CPU>
+    <CPU>
+      <name>Lunar Lake</name>
+      <idlist>288v,268v,266v,258v,256v,238v,236v,228v,226v</idlist>
+    </CPU>
+    <CPU>
+      <name>Glacier Falls</name>
+      <idlist>
+      </idlist>
+    </CPU>
+    <CPU>
+      <name>Eagles Stream</name>
+      <idlist>
+      </idlist>
+    </CPU>
+    <CPU>
+      <name>Arrow Lake</name>
+      <idlist>290hx,290k,285hx,285h,285k,285t, 285,275hx,275h,270hx,270k,265hx,265k,265t,265kf,265f,265h, 265, 265u,255h, 255u,255hx,251hx,250k,250kf,245hx,245k,245kf,245t,245h, 245,235hx,235h, 235, 235u,235t,225h, 225u,225kf,225t, 225</idlist>
+    </CPU>
+    <CPU>
+      <name>Twin Lake</name>
+      <idlist>n355,n350,n250,n150</idlist>
+    </CPU>
+    <CPU>
+      <name>Panther Lake</name>
+      <idlist>388h,386h,368h,366h, 365,7 360u,358h,356h, 355,5 350u,5 340u,338h,336h, 335, 332, 325, 322,3 320u</idlist>
+    </CPU>
+    <CPU>
+      <name>Nova Lake</name>
+      <idlist>
+      </idlist>
+    </CPU>
+    <CPU>
+      <name>Wildcat Lake</name>
+      <idlist>7 360,7 350,5 330,5 320,5 315,3 304</idlist>
+    </CPU>
+  </Intel>
+  <AMD>
+    <CPU>
+      <name>Raven Ridge</name>
+      <idlist>2200u,2300u,2500u,2600h,2700u,2800h,2400g,2200g,240ge,220ge,200ge</idlist>
+    </CPU>
+    <CPU>
+      <name>Summit Ridge</name>
+      <idlist>1100,1200,1300,1400,1500,1600,1700,1800</idlist>
+    </CPU>
+    <CPU>
+      <name>Picasso</name>
+      <idlist>3750h,3550h,3700u,3700c,3500c,3500u,3500c,3450u,3300u,3200u,3750h,3550h,althon 300u,3400g,3350g,3200g,3150g,3050ge,3000g,300ge</idlist>
+    </CPU>
+    <CPU>
+      <name>Renoir</name>
+      <idlist>4800u,4750u,4700u,4650u,4600u,4500u,4450u,4300u,4950h,4900h,4800h,4600h,4750h,4550h,4900hx,4700g,4600g,4300g</idlist>
+    </CPU>
+    <CPU>
+      <name>Bristol Ridge</name>
+      <idlist>9830p,9800p,9730,9700p,9720p,9630p,9600p,9620p</idlist>
+    </CPU>
+    <CPU>
+      <name>Stoney Ridge</name>
+      <idlist>9430,9420,9425,9420e,9230,9225,9220,9220e,9125,9220c,9120,9120c,9435,9235,9120e,9030,9000,9000e</idlist>
+    </CPU>
+    <CPU>
+      <name>Dali</name>
+      <idlist>3250u,3250c,3150u,3150c,3050u,3050c,3050e,3020e</idlist>
+    </CPU>
+    <CPU>
+      <name>Lucienne</name>
+      <idlist>5700u,5500u,5300u</idlist>
+    </CPU>
+    <CPU>
+      <name>Cezanne</name>
+      <idlist>5980hx,5900hx,5900h,5850u,5800h,5800u,5650u,5600h,5600u,5450u,5400u,5700g,5600g,5300g</idlist>
+    </CPU>
+    <CPU>
+      <name>Pollock</name>
+      <idlist>3015e,3015ce</idlist>
+    </CPU>
+    <CPU>
+      <name>Rembrandt</name>
+      <idlist>6980hx,6980hs,6950,6950h,6900hs,6850,6850h,6800h,6800hs,6800u,6650,6650h,6600h,6600hs,6800u,6600u,5875,5825u,5675,5625u,5475,5425u</idlist>
+    </CPU>
+    <CPU>
+      <name>Barcelo</name>
+      <idlist>7730u,7530u,7330u,5875u,5850u,5825u,5825c,5800u,5675u,5650u,5625u,5625c,5600u,5475u,5450u,5425u,5425c,5400u,5125c</idlist>
+    </CPU>
+    <CPU>
+      <name>Phoenix</name>
+      <idlist>8700,8500,8400,8300,7980hs,7940,7900hs,7845,7840u,7840,7800hs,7645,7640u,7640,7600hs,7540u,7540,7440u,7440</idlist>
+    </CPU>
+    <CPU>
+      <name>Raphael</name>
+      <idlist>7950x,7900x,7700x,7600x</idlist>
+    </CPU>
+    <CPU>
+      <name>Dragon Range</name>
+      <idlist>7945hx,7900hx,7845hx,7800hx,7745hx,7645hx,7600hx</idlist>
+    </CPU>
+    <CPU>
+      <name>Mendocino</name>
+      <idlist>7520u,7520c,7320u,7320c,7320e,7220u,7220c,7220e,7120u,7120c,7120e</idlist>
+    </CPU>
+    <CPU>
+      <name>Castle Peak</name>
+      <idlist>3990x,3970x,3960x</idlist>
+    </CPU>
+    <CPU>
+      <name>Vermeer</name>
+      <idlist>5950x,5900x,5800x,5600x,5900,5800</idlist>
+    </CPU>
+    <CPU>
+      <name>Matisse</name>
+      <idlist>3950x,3900xt,3900x,3900,3800xt,3800x,3700x,3600xt,3600x,3600,3500</idlist>
+    </CPU>
+    <CPU>
+      <name>Rembrandt-R</name>
+      <idlist>7736,7735hs,7735u,7535hs,7535u,7533hs,7533u,7335u,6950h,6900hx,6850h,6800h,6800u,6650h,6600h,6600u,6850u,6650u,6800h,6600h,3 110,5 130,5 150,7 160,7 170,7 pro 160,5 pro 130,3 pro 110</idlist>
+    </CPU>
+    <CPU>
+      <name>Fire Range</name>
+      <idlist>9955hx,9850hx</idlist>
+    </CPU>
+    <CPU>
+      <name>Strix Point</name>
+      <idlist>hx 375,hx 370,9 365</idlist>
+    </CPU>
+    <CPU>
+      <name>Strix Halo</name>
+      <idlist>
+      </idlist>
+    </CPU>
+    <CPU>
+      <name>Hawk Point</name>
+      <idlist>8945hs,8845hs,8645hs,8840u,8840hs,8640u,8640hs,8540u,8540hs,8440u,9 270,7 260,7 255,5 240,7 250,5 230,pro 250,pro 230,5 220,3 210,pro 220,pro 210,7 155,5 125</idlist>
+    </CPU>
+    <CPU>
+      <name>Krackan Point</name>
+      <idlist>7 350,7 345,5 340,5 330,7 pro 350,5 pro 340</idlist>
+    </CPU>
+    <CPU>
+      <name>Krackan Point-R</name>
+      <idlist>
+      </idlist>
+    </CPU>
+    <CPU>
+      <name>Escher</name>
+      <idlist>
+      </idlist>
+    </CPU>
+    <CPU>
+      <name>Barcelo-R</name>
+      <idlist>7730u,7530u,7430u,7330u</idlist>
+    </CPU>
+    <CPU>
+      <name>Granite Ridge</name>
+      <idlist>9600x,9700x,9900x,9950x</idlist>
+    </CPU>
+    <CPU>
+      <name>Gorgon Point</name>
+      <idlist>r9 475hx,r9 470hx,r9 465,r7 450,r7 445,r5 435,r5 430</idlist>
+    </CPU>
+    <CPU>
+      <name>Gorgon Halo</name>
+      <idlist> 495, 490, 485, 492, 488, 485</idlist>
+    </CPU>
+    <CPU>
+      <name>Gator Range</name>
+      <idlist>
+      </idlist>
+    </CPU>
+    <CPU>
+      <name>Medusa BB</name>
+      <idlist>
+      </idlist>
+    </CPU>
+    <CPU>
+      <name>Medusa Point</name>
+      <idlist>
+      </idlist>
+    </CPU>
+    <CPU>
+      <name>Siren Point</name>
+      <idlist>
+      </idlist>
+    </CPU>
+    <CPU>
+      <name>Mendocino-R</name>
+      <idlist>ryzen 3 30,Ryzen 5 40,silver 10,gold 20</idlist>
+    </CPU>
+  </AMD>
+  <ARM>
+    <CPU>
+      <name>ARM</name>
+      <idlist>microsoft,qualcomm,snapdragon,sdm,nvidia,n1</idlist>
+    </CPU>
+  </ARM>
+</FamilyList>
